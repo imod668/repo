@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="description" content="Repo Cydia, Zebra, Installer"/>
+	<meta name="keywords" content="Repo test"/>
+	<meta name="author" content="Mrthuan">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/png" href="assets/itweaker.png"/>
+    <title>Repo test</title>
+</head>
+	
+<body>
+	<!-- header -->
+	<header id="header">
+		<a href="index.html"><h1>Welcome to my repo</h1></a>
+		<nav id="nav_link">
+		  <a class="link active" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://" target="_blank">Cydia</a>
+		  <a class="link" href="sileo://source/https://" target="_blank">Sileo</a>
+		  <a class="link" href="zbra://sources/add/https://" target="_blank">Zebra</a>
+		  <a class="link" href="installer://add/repo=https://" target="_blank">Installer</a>
+		</nav>
+	</header>
+	
+	<!-- main -->
+    <div class="profile">
+      <h2 class="title_repo">Repo For Jailbreak</h2>
+	  <p class="sub_title_repo" style="color:red;">Here is the repo test, I borrowed some packages as examples, all the links lead to the official source of the packages. <i>If you have any questions, feel free to message me on twitter @th6688</i></p>
+      <br/><br/><h4 class="sub_title_repo" id="txt_type">Add Repo: https://yourRepo.github.io</h4>
+	  <h5 id="total" class="sub_title_repo"></h5>
+    </div>
+    <div class="main"></div>
+	
+	<!-- footer -->
+	<footer class="footer sub">
+		<div class="footer_social">
+			<a href="https://twitter.com/th6688" target="_blank">Twitter</a>
+			<a href="https://facebook.com/" target="_blank">Facebook</a>
+			<a href="mailto:thuanvodka@gmail.com" target="_blank">Email</a>
+		</div>
+		  <p class="footer_text">Copyright Mrthuan &copy; <script type="text/javascript">document.write(new Date().getFullYear())</script></p>
+	</footer>
+	
+<script>
+	var t = new Date().getMinutes();
+	//--load css
+	var newstyle = document.createElement("link");
+		newstyle.rel = "stylesheet";
+		newstyle.href = "css/style.css?v="+ t;
+		newstyle.type = "text/css";
+	document.getElementsByTagName('head')[0].appendChild(newstyle);
+	
+	//--load js
+    var script = document.createElement('script');
+	script.onload = function() {
+		};
+    script.type = 'text/javascript';
+    script.src = 'js/main.js?v='+ t;
+    document.body.appendChild(script);
+</script>
+</body>
+</html>
