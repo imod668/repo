@@ -12,6 +12,7 @@ function readTextFile(file, callback) {
 }
 
 //load json local:
+var packagesSection = {};
 var url = "data.json?v=" + new Date().getMinutes() ;
 readTextFile(url, function(text){
    data = JSON.parse(text).data;
