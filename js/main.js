@@ -15,7 +15,19 @@ function readTextFile(file, callback) {
 var url = "data.json?v=" + new Date().getMinutes() ;
 readTextFile(url, function(text){
    data = JSON.parse(text).data;
-   
+   //---------------------------------
+   for (var key_section in data) {
+		var danhmuc = data[key_section].category;
+		
+			if(danhmuc==null) {
+				danhmuc = "Unknown";
+			}
+			if(packagesSection[danhmuc] == null) {
+				packagesSection[danhmuc] = [];
+			}
+		packagesSection[danhmuc].push(data[key_section]);
+	};
+	//---------------------------------
 	lastUpdate();
     segment_content_item();
 });
@@ -64,9 +76,9 @@ function lastUpdate(){
 }
 
 function create_sections(id_category) {
-	
 	var total_packages = Object.keys(data).length;
 	document.getElementById('total').textContent = 'Total : ' + total_packages + ' packages';
+	var total_category = packagesSection[id_category].length;
 
 	var div_danhmuc = document.createElement("div");
 		div_danhmuc.className = 'danhmuc';
@@ -79,7 +91,7 @@ function create_sections(id_category) {
   
 	var title_danhmuc = document.createElement("div");
 		title_danhmuc.className = 'title_danhmuc';
-		title_danhmuc.textContent = id_category;
+		title_danhmuc.textContent = id_category + ' ('+total_category+')';
 	header_danhmuc.appendChild(title_danhmuc);
 
 	var content_carousel_div = document.createElement("div");

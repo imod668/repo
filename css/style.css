@@ -16,7 +16,7 @@ body {
   margin: 0;
   overflow-x: hidden;
   width: 100%;
-  background: #f5f5f5;
+  background: #f7f7f7;
   padding-top: 210px;
   transition: opacity 2s;
   -webkit-transition: opacity 2s;
@@ -37,10 +37,8 @@ header {
   top: 0;
   z-index: 99;
   overflow: hidden;
-  -moz-transition: all 0.5s ease;
-  -o-transition: all 0.5s ease;
-  -webkit-transition: all 0.5s ease;
-  transition: all 0.5s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 header h1 {
   font-size: 25px;
@@ -88,8 +86,6 @@ header nav a:hover {
 	-webkit-backdrop-filter: blur(10px);
 }
 .sticky-header h1 {
-	-moz-transform: scale(0, 0);
-	-ms-transform: scale(0, 0);
 	-webkit-transform: scale(0, 0);
 	transform: scale(0, 0);
 }
@@ -132,7 +128,7 @@ a:hover{text-decoration: underline;}
   background: #ffffff;
   margin: 20px auto!important;
   border-radius: 4px;
-  box-shadow: 0px 0px 15px #c1c1c1;
+  box-shadow: 0px 0px 15px #dcdcdc;
 }
 .main .danhmuc .header_danhmuc {
   width: 100%;
@@ -141,7 +137,7 @@ a:hover{text-decoration: underline;}
   overflow: hidden;
   border-bottom: 1px solid #d2d2d2;
   text-align: left;
-  background: linear-gradient(-30deg, #ffeaea, #ecfdff, #fdfdf0, #ffffff, #e0f7d8);
+  background: #ffffff;
 }
 .main .title_danhmuc {
   font-size: 20px;
@@ -163,7 +159,7 @@ a:hover{text-decoration: underline;}
   vertical-align: top;
   cursor: pointer;
   transition: all .3s ease;
-  box-shadow: 0px 0px 15px #c1c1c1;
+  box-shadow: 0px 0px 15px #dcdcdc;
   width: 50%;
   margin-left: 10px;
   margin-right: 10px;
@@ -256,7 +252,7 @@ a:hover{text-decoration: underline;}
 }
 
 .show {
-  background-color: #f5f5f5;
+  background-color: #f7f7f7;
   transition: all 0.4s;
   font-weight: 500;
   position: relative;
@@ -313,7 +309,7 @@ a:hover{text-decoration: underline;}
   width: auto;
   border-radius: 5px;
   margin-right: 20px;
-  box-shadow: 0px 0px 15px #c1c1c1;
+  box-shadow: 0px 0px 15px #dcdcdc;
 }
 .get{
 	position: relative;
