@@ -37,16 +37,16 @@ header {
   top: 0;
   z-index: 99;
   overflow: hidden;
-  -webkit-transition: all 0.5s ease;
-  transition: all 0.5s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 header h1 {
   font-size: 25px;
   color: #fff;
   line-height: 150px;
   text-transform: uppercase;
-  -webkit-transition: all 0.7s ease;
-  transition: all 0.7s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
 }
 header nav {
   position: absolute;
@@ -65,7 +65,7 @@ header nav a {
   line-height: 1;
   text-decoration: none;
   text-transform: uppercase;
-  transition: all .7s;
+  transition: all .3s;
   
 }
 header nav a:hover {
@@ -81,9 +81,7 @@ header nav a:hover {
 /* Sticky Header Style */
 .sticky-header{
 	height: 60px;
-	background-color: rgba(44,177,190,0.9);
-	backdrop-filter: blur(10px);
-	-webkit-backdrop-filter: blur(10px);
+	background-color: rgba(44,177,190,1);
 }
 .sticky-header h1 {
 	/* -webkit-transform: scale(0, 0); */
