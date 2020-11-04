@@ -86,10 +86,9 @@ header nav a:hover {
 	-webkit-backdrop-filter: blur(10px);
 }
 .sticky-header h1 {
-	-webkit-transform: scale(0, 0);
-	transform: scale(0, 0);
+	/* -webkit-transform: scale(0, 0); */
+	/* transform: scale(0, 0); */
 	opacity: 0;
-    height: 60px;
 }
 /* end header */
 
