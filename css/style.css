@@ -36,8 +36,8 @@ header {
   top: 0;
   z-index: 99;
   overflow: hidden;
-  -webkit-transition: all 0.3s ease;
-  transition: all 0.3s ease;
+  /* -webkit-transition: all 0.3s ease; */
+  /* transition: all 0.3s ease; */
 }
 header h1 {
   font-size: 25px;
