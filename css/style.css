@@ -243,19 +243,19 @@ a:hover{text-decoration: underline;}
 }
 
 .show {
-  background-color: #f7f7f7;
+  background-color: #fff;
   transition: all 0.4s;
   font-weight: 500;
   position: relative;
   padding-top: 80px;
   word-break: break-word;
+  box-shadow: 0px 0px 15px #dcdcdc;
 }
 .sub {
 	background: #fff;
 	color: #808080;
 	border-radius: 5px;
 	padding: 10px;
-    box-shadow: 0px 0px 15px #dcdcdc;
 }
 
 .show .desc {
