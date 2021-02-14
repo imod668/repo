@@ -1,0 +1,198 @@
+{
+	"data": {
+	
+		"BubbleApps": {
+				"title": "Bubble Apps",
+				"version" : "2.1.1",
+				"support" : "11.0 - 13.5",
+				"description": "Bubble Apps - Your favorite apps, wherever you want them, whenever you choose",
+				"changelog" :"fix odyssey jailbreak crash to safe mode",
+				"update": "19/10/2020",
+				"category": "Tweaks",
+				"link": "https://repo.packix.com/package/com.0xkuj.bubbleapps/",
+				"thumbnail": "https://repo.packix.com/api/Packages/5ed9395a455b35001a35b90e/screenshots/5ed94f4b86d15f001a5e1345/download?size=full",
+				"screenshots": [
+					"https://repo.packix.com/api/Packages/5ed9395a455b35001a35b90e/screenshots/5ed94f4b86d15f001a5e1345/download?size=full",
+					"https://repo.packix.com/api/Packages/5ed9395a455b35001a35b90e/screenshots/5ed94f52c69b1a001a5ca039/download?size=full",
+					"https://repo.packix.com/api/Packages/5ed9395a455b35001a35b90e/screenshots/5ed94f57c69b1a001a5ca049/download?size=full"
+					],
+				"opensource": "",
+				"videos": "https://www.youtube.com/embed/FoMlSB6ftQg?list=PLIbLfYSA8ACNYCOaDWmj6EA1F1uS-pyVL"
+        },
+		"Colorista": {
+				"title": "Colorista",
+				"version" : "1.0",
+				"support" : "10 - 14",
+				"description": "2in1 theme with Awesome Colors",
+				"changelog" :"No changes for this version",
+				"update": "19/10/2020",
+				"category": "Themes",
+				"link": "https://repo.packix.com/package/Colorista/",
+				"thumbnail": "https://repo.packix.com/api/Packages/5f8b668bd9ec29001bffffe5/screenshots/5f8b66fe0dddf7001a46c8d2/download?size=full",
+				"screenshots": [
+					"https://repo.packix.com/api/Packages/5f8b668bd9ec29001bffffe5/screenshots/5f8b66fe0dddf7001a46c8d2/download?size=full",
+					"https://repo.packix.com/api/Packages/5f8b668bd9ec29001bffffe5/screenshots/5f8b6712d9ec29001bfffffc/download?size=full"
+					],
+				"opensource": "",
+				"videos": ""
+        },
+		"AnimPlus": {
+				"title": "AnimPlus",
+				"version" : "1.0-6",
+				"support" : "13 - 15",
+				"description": "animPlus is the completely rewritten from the ground up version of AnimationsBeFastPlus",
+				"changelog" :"Initial release.",
+				"update": "19/10/2020",
+				"category": "Tweaks",
+				"link": "https://repo.packix.com/package/com.adamseiter.animplus/",
+				"thumbnail": "https://repo.packix.com/api/Packages/5f8bcaeb0dddf7001a46cb12/screenshots/5f8bcd54d9ec29001b00024d/download?size=full",
+				"screenshots": [
+					"https://repo.packix.com/api/Packages/5f8bcaeb0dddf7001a46cb12/screenshots/5f8bcd58015c85001a375ed8/download?size=full",
+					"https://repo.packix.com/api/Packages/5f8bcaeb0dddf7001a46cb12/screenshots/5f8bcd5cba9db6001b9c1fe7/download?size=full"
+					],
+				"opensource": "",
+				"videos": ""
+        },
+		"Kara13": {
+				"title": "Kara13",
+				"version" : "2.0.1",
+				"support" : "12.0 - 13.7",
+				"description": "What does this theme contain",
+				"changelog" :"No changes for this version",
+				"update": "19/10/2020",
+				"category": "Themes",
+				"link": "https://repo.packix.com/package/com.kadir1009.kara13/",
+				"thumbnail": "https://repo.packix.com/api/Packages/5e4a566cd56105001adb4b6c/screenshots/5ec3f390e39cc8001ac417d6/download?size=full",
+				"screenshots": [
+					"https://repo.packix.com/api/Packages/5e4a566cd56105001adb4b6c/screenshots/5ec3f3b0c9c763001a8d4094/download?size=full",
+					"https://repo.packix.com/api/Packages/5e4a566cd56105001adb4b6c/screenshots/5ec3f3b5d47221001c7b1005/download?size=full"
+					],
+				"opensource": "",
+				"videos": ""
+        },
+		"Crane": {
+				"title": "Crane",
+				"version" : "1.1",
+				"support" : "13.0 - 14.1",
+				"description": "Crane is a container management solution that allows you to create multiple containers per application.",
+				"changelog" :"No changes for this version",
+				"update": "19/10/2020",
+				"category": "Tweaks",
+				"link": "https://repo.packix.com/package/com.opa334.crane/",
+				"thumbnail": "https://repo.packix.com/api/Packages/5f47aad427f6a8001ac6eb05/screenshots/5f8c1f5ae849ac001a642f48/download?size=full",
+				"screenshots": [
+					"https://repo.packix.com/api/Packages/5f47aad427f6a8001ac6eb05/screenshots/5f8c1f460dddf7001a46ccca/download?size=full",
+					"https://repo.packix.com/api/Packages/5f47aad427f6a8001ac6eb05/screenshots/5f8c1f4be849ac001a642f3b/download?size=full"
+					],
+				"opensource": "",
+				"videos": ""
+        },
+		"MagSafe": {
+				"title": "MagSafe",
+				"version" : "1.1",
+				"support" : "12.0 - 14.1",
+				"description": "MagSafe charging indicator just like iOS 14!",
+				"changelog" :"No changes for this version",
+				"update": "19/10/2020",
+				"category": "Tweaks",
+				"link": "https://mtac.app/beta/depiction/web/com.nahtedetihw.magsafe.html",
+				"thumbnail": "https://mtac.app/beta/assets/com.nahtedetihw.magsafe/screenshot/1.png",
+				"screenshots": [
+					"https://mtac.app/beta/assets/com.nahtedetihw.magsafe/screenshot/1.png",
+					"https://mtac.app/beta/assets/com.nahtedetihw.magsafe/screenshot/2.png"
+					],
+				"opensource": "",
+				"videos": ""
+        },
+        "hswidgets": {
+				"title": "HSWidgets",
+				"version" : "2.0",
+				"support" : "12.0 - 13.7",
+				"description": "Add today widgets or custom widgets to home screen",
+				"changelog" :"No changes for this version",
+				"update": "20/09/2020",
+				"category": "Tweaks",
+				"link": "https://dgh0st.github.io/Files/?p=com.dgh0st.hswidgets",
+				"thumbnail": "screenshots/hswidgets/2.jpg",
+				"screenshots": [
+					"screenshots/hswidgets/1.jpg",
+					"screenshots/hswidgets/2.jpg"
+					],
+				"opensource": "",
+				"videos": "https://www.youtube.com/embed/buXT08Q9VoQ"
+        },
+		"icleanerpro": {
+				"title": "iCleanerPro",
+				"version" : "3.0",
+				"support" : "12.0 - 13.7",
+				"description": "The first real iOS system cleaner & optimizer",
+				"changelog" :"No changes for this version",
+				"update": "01/10/2020",
+				"category": "Utilities",
+				"link": "https://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro",
+				"thumbnail": "screenshots/icleanerpro/1.jpg",
+				"screenshots": [
+					"screenshots/icleanerpro/1.jpg",
+					"screenshots/icleanerpro/2.jpg",
+					"screenshots/icleanerpro/3.jpg"
+					],
+				"opensource": "",
+				"videos": ""
+        },
+		"kalm": {
+				"title": "Kalm",
+				"version" : "4.0",
+				"support" : "12.0 - 13.7",
+				"description" : "Add today widgets or custom widgets to home screen",
+				"changelog" : "No changes for this version",
+				"update": "01/10/2020",
+				"category": "Tweaks",
+				"link": "https://chariz.com/buy/kalm",
+				"thumbnail": "screenshots/kalm/1.jpg",
+				"screenshots": [
+					"screenshots/kalm/1.jpg",
+					"screenshots/kalm/2.jpg",
+					"screenshots/kalm/3.jpg",
+					"screenshots/kalm/4.jpg",
+					"screenshots/kalm/5.jpg"
+					],
+				"opensource": "",
+				"videos": ""
+        },
+		"screensaver": {
+				"title": "ScreenSaver",
+				"version" : "5.0",
+				"support" : "12.0 - 13.7",
+				"description": "Screensaver that allows using your own videos",
+				"changelog" :"No changes for this version",
+				"update": "20/09/2020",
+				"category": "Tweaks",
+				"link": "https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=screensafeDp",
+				"thumbnail": "screenshots/screensaver/1.jpg",
+				"screenshots": [
+					"screenshots/screensaver/1.jpg",
+					"screenshots/screensaver/2.jpg"
+					],
+				"opensource": "",
+				"videos": ""
+        },
+		"fine": {
+				"title": "Fine",
+				"version" : "6.0",
+				"support" : "12.0 - 13.7",
+				"description": "Simple and refined icons for a stunning visual experience.",
+				"changelog" :"No changes for this version",
+				"update": "25/09/2019",
+				"category": "Themes",
+				"link": "https://repo.packix.com/package/com.flarezephyr.Fine/",
+				"thumbnail": "screenshots/fine/1.jpg",
+				"screenshots": [
+					"screenshots/fine/1.jpg",
+					"screenshots/fine/2.jpg"
+					],
+				"opensource": "",
+				"videos": ""
+        }
+
+	}
+}

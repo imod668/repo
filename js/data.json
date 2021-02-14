@@ -1,0 +1,93 @@
+{
+  "data": {
+    "content_item": {
+	
+        "hswidgets": {
+			"title": "HSWidgets",
+			"version" : "2.0",
+			"support" : "12.0 - 13.7",
+			"description": "Add today widgets or custom widgets to home screen",
+			"changelog" :"No changes for this version",
+			"update": "20/09/2020",
+			"category": "Tweaks",
+			"link": ["https://dgh0st.github.io/Files/?p=com.dgh0st.hswidgets"],
+			"thumbnail": "screenshots/hswidgets/2.jpg",
+			"screenshots": [
+				"screenshots/hswidgets/1.jpg",
+				"screenshots/hswidgets/2.jpg"
+				],
+			"videos": "https://www.youtube.com/embed/buXT08Q9VoQ"
+        },
+		"icleanerpro": {
+			"title": "iCleanerPro",
+			"version" : "3.0",
+			"support" : "12.0 - 13.7",
+			"description": "The first real iOS system cleaner & optimizer",
+			"changelog" :"No changes for this version",
+			"update": "01/10/2020",
+			"category": "Utilities",
+			"link": ["https://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro"],
+			"thumbnail": "screenshots/icleanerpro/1.jpg",
+			"screenshots": [
+				"screenshots/icleanerpro/1.jpg",
+				"screenshots/icleanerpro/2.jpg",
+				"screenshots/icleanerpro/3.jpg"
+				],
+			"videos": ""
+        },
+		"kalm": {
+			"title": "Kalm",
+			"version" : "4.0",
+			"support" : "12.0 - 13.7",
+			"description" : "Add today widgets or custom widgets to home screen",
+			"changelog" : "No changes for this version",
+			"update": "01/10/2020",
+			"category": "Tweaks",
+			"link": ["https://chariz.com/buy/kalm"],
+			"thumbnail": "screenshots/kalm/1.jpg",
+			"screenshots": [
+				"screenshots/kalm/1.jpg",
+				"screenshots/kalm/2.jpg",
+				"screenshots/kalm/3.jpg",
+				"screenshots/kalm/4.jpg",
+				"screenshots/kalm/5.jpg"
+				],
+			"videos": ""
+        },
+		"screensaver": {
+			"title": "ScreenSaver",
+			"version" : "5.0",
+			"support" : "12.0 - 13.7",
+			"description": "Screensaver that allows using your own videos",
+			"changelog" :"No changes for this version",
+			"update": "20/09/2019",
+			"category": "Tweaks",
+			"link": ["https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=screensafeDp"],
+			"thumbnail": "screenshots/screensaver/1.jpg",
+			"screenshots": [
+				"screenshots/screensaver/1.jpg",
+				"screenshots/screensaver/2.jpg"
+				],
+			"videos": ""
+        },
+		"fine": {
+			"title": "Fine",
+			"version" : "6.0",
+			"support" : "12.0 - 13.7",
+			"description": "Simple and refined icons for a stunning visual experience.",
+			"changelog" :"No changes for this version",
+			"update": "25/09/2019",
+			"category": "Themes",
+			"link": ["https://repo.packix.com/package/com.flarezephyr.Fine/"],
+			"thumbnail": "screenshots/fine/1.jpg",
+			"screenshots": [
+				"screenshots/fine/1.jpg",
+				"screenshots/fine/2.jpg"
+				],
+			"videos": ""
+        }
+
+	  
+    }
+  }
+}
