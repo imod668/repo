@@ -36,6 +36,8 @@ header {
   top: 0;
   z-index: 99;
   overflow: hidden;
+  background-image: linear-gradient(to top,#00d4c4,#57e3d8);
+  color: #005054;
   /* -webkit-transition: all 0.3s ease; */
   /* transition: all 0.3s ease; */
 }
@@ -46,6 +48,7 @@ header h1 {
   text-transform: uppercase;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
+  color: #005054;
 }
 header nav {
   /* position: absolute; */
@@ -323,6 +326,8 @@ a:hover{text-decoration: underline;}
 	font-size: 18px;
 	font-weight: 600;
 	text-align: center;
+	background-image: linear-gradient(to top,#00d4c4,#57e3d8);
+	color: #005054;
 }
 
 iframe{
