@@ -1,3 +1,4 @@
+//source originin: https://onlymytho.github.io/me/
 function readTextFile(file, callback) {
     var rawFile = new XMLHttpRequest();
     rawFile.overrideMimeType("application/json");
